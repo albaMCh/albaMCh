@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Alba Molera Chacon</h1>
-<h3 align="center">Soy desarrolladora de software y data science.</h3>
+<h3 align="center">Soy Bióloga, desarrolladora de software y data science.</h3>
 
-- 🌱 Estoy formándome: **Data Science, pandas, numpy, phyton**
+- 🌱 En la actualidad termine el master de data science y sigo realizando proyectos de data science y bioinformática
 
 
 - 📫Puedes ponerte en contacto: **albamolerachacon@gmail.com**
